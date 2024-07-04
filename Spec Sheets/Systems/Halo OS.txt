@@ -1,0 +1,18 @@
+Hi Matt,
+
+See Halo Controller setup manual attached!   This is for IP address and initial login as well as for customer terminal and group activation/configuration and management.
+
+Hytera does the initial installation of POC software, NMS software and license file.  We will usually also add the customer IP address as a lot of folks seem to get it wrong and it’s a pain to reset afterwards.
+
+From that point the dealers would take over and program terminals based on customer requirements.
+
+Follow the attached manual and login to NMS to create the groups and terminals they wish to have active.
+
+Subcriber management is where you create end user terminals and group management for groups.   
+
+You can make a radio a member of a group, or add multiple groups to a radio.   You can also add multiple radios to multiple groups at same time.
+
+FOACSU = radio plays audio right away
+OACSU = radio rings and needs to be answered prior to joining call
+
+Just some info to keep you busy, lol.
